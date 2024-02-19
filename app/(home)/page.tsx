@@ -40,7 +40,7 @@ export default async function Home() {
         </div>
       </div>
 
-      <div className="mt-6">
+      <div className="mt-6 mb-[4.5rem]">
         <h2 className="px-5 text-xs mb-3 uppercase text-gray-400 font-bold">popular</h2>
 
         <div className="px-5 flex gap-4 overflow-x-auto [&::webkit-scrollbar]:hidden">
